@@ -1012,11 +1012,13 @@ hr {
 .portfolio-area .portfolio-grid .portfolio-wrapper:hover:before {
   opacity: 1;
   visibility: visible;
+  border-radius: 20px;
 }
 
 .portfolio-area .portfolio-grid .portfolio-wrapper:hover .item-content {
   opacity: 1;
   visibility: visible;
+  border-radius: 20px;
 }
 
 .portfolio-area .lightbox-wrapper {
