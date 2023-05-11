@@ -1112,6 +1112,10 @@ hr {
   max-width: 800px;
   max-height: 600px;
 }
+
+.lightbox-gallery .owl-dots{
+  
+}
 .portfolio-area .lightbox-wrapper .lightbox-gallery .owl-dots {
   bottom: -38px;
   left: 0;
