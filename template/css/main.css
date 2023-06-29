@@ -344,7 +344,8 @@ hr {
 
 /*----------- Sidebar -----------*/
 .sidebar {
-  background-color: #111;
+  background-color: #4f4e4e;
+  /* background-color: #111; */
 }
 
 .sidebar .sidebar-header {
